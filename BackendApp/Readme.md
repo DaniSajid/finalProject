@@ -1,0 +1,11 @@
+<!-- environment var -->
+<!-- PORT=3000
+MONGODB_URL=mongodb+srv://daniyal:daniyal123@cluster0.ed3kg.mongodb.net
+CORS_ORIGIN=*
+SECRET_KEY=daniyal123
+SECRET_KEY_EXPIRY=1d
+SECRET_KEY_REFRESH=daniyal12345
+SECRET_KEY_REFRESH_EXPIRY=10d
+CLOUD_NAME=dz0odftpm
+CLOUD_API_KEY=652777191473117
+CLOUD_API_SECRET=iJbiUmJK6wC_A04ymDgdVcE1W0U -->
